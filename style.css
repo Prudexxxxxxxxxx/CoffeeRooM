@@ -240,6 +240,10 @@ body._touch .menu__link {
 }
 
 @media (min-width: 767px) {
+        .page{
+        overflow: hidden;
+        overflow-x: hidden;
+    }
     .menu__list {
         display: flex;
         align-items: center;
